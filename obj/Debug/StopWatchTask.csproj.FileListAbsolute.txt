@@ -1,0 +1,9 @@
+c:\users\rajiv\documents\visual studio 2012\Projects\StopWatchTask\StopWatchTask\bin\Debug\StopWatchTask.exe.config
+c:\users\rajiv\documents\visual studio 2012\Projects\StopWatchTask\StopWatchTask\bin\Debug\StopWatchTask.exe
+c:\users\rajiv\documents\visual studio 2012\Projects\StopWatchTask\StopWatchTask\bin\Debug\StopWatchTask.pdb
+c:\users\rajiv\documents\visual studio 2012\Projects\StopWatchTask\StopWatchTask\obj\Debug\StopWatchTask.csprojResolveAssemblyReference.cache
+c:\users\rajiv\documents\visual studio 2012\Projects\StopWatchTask\StopWatchTask\obj\Debug\StopWatchTask.Properties.Resources.resources
+c:\users\rajiv\documents\visual studio 2012\Projects\StopWatchTask\StopWatchTask\obj\Debug\StopWatchTask.csproj.GenerateResource.Cache
+c:\users\rajiv\documents\visual studio 2012\Projects\StopWatchTask\StopWatchTask\obj\Debug\StopWatchTask.exe
+c:\users\rajiv\documents\visual studio 2012\Projects\StopWatchTask\StopWatchTask\obj\Debug\StopWatchTask.pdb
+c:\users\rajiv\documents\visual studio 2012\Projects\StopWatchTask\StopWatchTask\obj\Debug\StopWatchTask.TaskTracker.resources
